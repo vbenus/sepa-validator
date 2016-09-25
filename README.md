@@ -1,2 +1,2 @@
 # sepa-validator
-Create and validate SEPA xml schema in javascript.
+Validate sepa credit transfer and sepa direct debit transformed into JSON format.
